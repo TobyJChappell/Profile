@@ -1,0 +1,7 @@
+body {
+	font-family: Verdana;
+}
+
+#about .topnav .about, #resume .topnav .resume, #contact .topnav .contact{
+	background-color: Black;
+}
